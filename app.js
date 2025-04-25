@@ -54,7 +54,8 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello from Render.com!
+      Mikola Korchmeniuk is trying DevOps
     </section>
   </body>
 </html>
